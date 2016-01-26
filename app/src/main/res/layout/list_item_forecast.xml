@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:text="Today - Sunny - 27/17"
+    android:id="@+id/list_item_forecast_textview"
+    android:background="#847d7d"
+    android:height="200px"
+    android:paddingLeft="100px"
+    android:paddingTop="100px">
+
+</TextView>
